@@ -1,3 +1,3 @@
 # thewmh.github.io
 
-HTML/CSS @ Prime Workshop
+HTML/CSS Workshop @ Prime
