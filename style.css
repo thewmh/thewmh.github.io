@@ -1,3 +1,5 @@
 h1 {
- background: linear-gradient(90deg, rgba(255,0,247,1) 0%, rgba(0,212,255,1) 100%); 
+ background: linear-gradient(90deg, rgba(255,0,247,1) 0%, rgba(0,212,255,1) 100%);
+ -webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
 }
