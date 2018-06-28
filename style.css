@@ -4,7 +4,7 @@ h1 {
  -webkit-text-fill-color: transparent;
 }
 
-ul, li {
+ul {
 background: linear-gradient(180deg, rgba(0,29,255,1) 0%, rgba(0,212,255,1) 100%);
  -webkit-background-clip: text;
  -webkit-text-fill-color: transparent;
