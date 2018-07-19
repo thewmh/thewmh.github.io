@@ -5,6 +5,12 @@ body {
   color: #303030;
 }
 
+div {
+    background: #00ffff0f;
+    margin: 0px;
+    padding: 1.5%;
+}
+
 #container {
   width: 800px;
 	margin: 40px auto 60px;
