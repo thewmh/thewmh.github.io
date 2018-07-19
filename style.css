@@ -1,11 +1,47 @@
-h1 {
- background: linear-gradient(90deg, rgba(255,0,247,1) 0%, rgba(0,212,255,1) 20%);
- -webkit-background-clip: text;
- -webkit-text-fill-color: transparent;
+body {
+	font: 14px Helvetica, Sans-Serif;
+  line-height: 20px;
+  background-image:url(http://bgrepeat.com/128/128-29.jpg);background-repeat:repeat;
+  color: #303030;
 }
 
-ul {
-background: linear-gradient(180deg, rgba(0,29,255,1) 0%, rgba(0,212,255,1) 100%);
- -webkit-background-clip: text;
- -webkit-text-fill-color: transparent;
+#container {
+  width: 800px;
+	margin: 40px auto 60px;
+  background-color: #ffffff;
+  padding: 40px;
+}
+
+.date {
+	float: right;
+}
+
+a {
+  text-decoration: none;
+  color: #585858;
+}
+
+a:hover {
+  color: #00ffff;
+}
+
+#contact, #professional-head{
+  font: 28px Helvetica, Sans-Serif;
+  font-weight: bold;
+}
+
+#contact-info {
+  text-align: right;
+}
+
+#content-summary-content {
+  margin: 16px 100px 16px 100px;
+padding: 0 0 32px 0;
+
+font-style: italic;
+font-size: 20px;
+}
+
+h3 {
+  font-style: italic;
 }
