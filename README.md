@@ -1,3 +1,3 @@
 # thewmh.github.io
 
-HTML/CSS Workshop @ Prime
+Resumé for Prime Digital Academy Full Stack Program Application
