@@ -17,6 +17,10 @@ div {
   padding: 40px;
 }
 
+div #contact:hover {
+  transform: rotate(180deg);
+}
+
 #container:hover {
   transform: none;
 }
