@@ -1,5 +1,5 @@
 body {
-	font: 14px Helvetica, Sans-Serif;
+  font: 14px Helvetica, Sans-Serif;
   line-height: 20px;
   background-image:url(http://bgrepeat.com/128/128-29.jpg);background-repeat:repeat;
   color: #303030;
@@ -7,26 +7,25 @@ body {
 
 div {
     background: #00ffff0f;
-    margin: 0px;
-    padding: 1.5%;
+    padding: 10px;
 }
 
 #container {
   width: 800px;
-	margin: 40px auto 60px;
+  margin: 40px auto 60px;
   background-color: #ffffff;
   padding: 40px;
 }
 
 #container:hover {
-    transform: none;
+  transform: none;
 }
 div:hover {
-    transform: rotate(-4deg);
+  transform: rotate(-4deg);
 }
 
 .date {
-	float: right;
+  float: right;
 }
 
 a {
@@ -49,10 +48,9 @@ a:hover {
 
 #content-summary-content {
   margin: 16px 100px 16px 100px;
-padding: 0 0 32px 0;
-
-font-style: italic;
-font-size: 20px;
+  padding: 0 0 32px 0;
+  font-style: italic;
+  font-size: 20px;
 }
 
 h3 {
